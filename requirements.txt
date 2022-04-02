@@ -5,3 +5,4 @@ pandas
 Werkzeug
 gunicorn
 Cython==0.28.5
+setuptools==0.7.3
