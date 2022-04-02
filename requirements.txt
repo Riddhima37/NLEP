@@ -3,8 +3,4 @@ flask
 scikit-learn==0.22.1
 pandas
 Werkzeug
-pandas
-sklearn.model_selection import train_test_split
-sklearn.feature_extraction.text import TfidfVectorizer
-sklearn.linear_model import PassiveAggressiveClassifier
-sklearn.metrics import accuracy_score, confusion_matrix
+gunicorn
