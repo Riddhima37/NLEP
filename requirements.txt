@@ -4,6 +4,5 @@ scikit-learn==0.22.1
 pandas
 Werkzeug
 gunicorn
-Cython==0.9.6.5
 setuptools
 pip
