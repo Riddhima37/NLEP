@@ -7,4 +7,4 @@ gunicorn
 Cython==0.9.6.5
 setuptools
 pickle
-pip 21.2.3
+pip
