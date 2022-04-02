@@ -6,5 +6,4 @@ Werkzeug
 gunicorn
 Cython==0.9.6.5
 setuptools
-pickle
 pip
