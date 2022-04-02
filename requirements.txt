@@ -6,3 +6,5 @@ Werkzeug
 gunicorn
 setuptools
 pip
+Cython==0.28.5
+python 3.8.0
